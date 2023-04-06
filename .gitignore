@@ -1,3 +1,4 @@
+*.csv
 *.sh
 *.replit
 # Byte-compiled / optimized / DLL files
